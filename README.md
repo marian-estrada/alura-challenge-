@@ -7,7 +7,7 @@ Página web que te permite ingresar una lista de nombres y elegir uno al azar. �
 -Agregar nombres a una lista 
 -Visualizar la lista
 -Sorteo aleatorio de los nombres. 
--Reiniar el juego cuando se ingresa un nuevo nombre después del sorteo (se limpia la lista).
+-Reiniciar el juego cuando se ingresa un nuevo nombre después del sorteo (se limpia la lista).
 
 <h3>Instalación</h3>
 ¡Clona este repositorio!

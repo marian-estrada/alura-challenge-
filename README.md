@@ -1,2 +1,3 @@
-# alura-challenge-
-Repositorio para el Challenge de Amigo Secreto de Alura grupo 8 2025.
+<h1>Challenge del Amigo Secreto</h1>
+
+-Estado del proyecto: Concluído.
